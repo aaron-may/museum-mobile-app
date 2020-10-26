@@ -1,0 +1,124 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+header {
+	text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.hamburger img {
+	width: 2rem;
+	align-items: right;
+}
+
+#main-menu nav {
+ display: flex;
+ height: 100%;
+}
+#main-menu ul {
+ margin: auto 0;
+ padding: 0;
+ list-style: none;
+}
+
+h3 {
+	font-weight: medium:
+	background-color: #dcdcdc
+}
+
+.card-divider {
+	font-weight: bold;
+}
+
+.exhibits {
+	align-items: center;
+	padding: 70px
+}
+
+.exhibits p { 
+	background-color: #dcdcdc;
+	font-size: 15;
+}
+
+.planyourvisit {
+	align-items: center;
+	padding: 70px
+}
+
+.planyourvisit p {
+	background-color: #dcdcdc;
+	font-size: 15;
+}
+
+.PlanYourVisitCard h3 {
+	font-weight: bold;
+}
+
+.joinandsupport {
+	align-items: center;
+	padding: 70px
+}
+
+.joinandsupport p {
+	background-color: #dcdcdc;
+	font-size: 15;
+}
+
+.JoinandSupportCard p {
+	text-align: left;
+}
+
+.exhibitcards img {
+	width: 15rem;
+}
+
+
+.ApolloDetailPic img {
+	width: 25rem;
+	padding: 2rem;
+}
+
+.ApolloDetailParagraph p {
+	background-color: #dcdcdc;
+}
+
+.card-divider {
+	background-color: #DA1217;
+	color: #FFFFFF;
+}
+
+.PlanYourVisitCard p {
+	text-align: left;
+}
+
+.button {
+	background-color: #DA1217
+}
+
+.footer img {
+	background-color: #133082;
+}
+
+
+footer .menu img {
+	width: 2rem;
+}
+
+footer {
+	background-color: #133082;
+	color: white;
+}
